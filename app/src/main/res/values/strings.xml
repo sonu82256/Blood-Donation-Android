@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Blood Donation</string>
+    <string name="emailHint">Enter Your Email</string>
+    <string name="passwordHint">Enter Password</string>
+    <string name="signUpButton">SIGN UP</string>
+    <string name="signInButton">SIGN IN</string>
+    <string name="signInMessage">Already have an account ? Sign In</string>
+    <string name="signUpMessage">Are you not registered ? Sign Up</string>
+    <string name="choose_location">Choose Location</string>
+    <string name="make_a_request">Make A Request</string>
+    <string name="request_headline">Write a request for your required blood, somebody will definitely help you.</string>
+    <string name="message">Write your post</string>
+    <string name="choose_image"><u>Choose Image</u></string>
+    <string name="post_request">Post Request</string>
+    <string name="image">Image</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="enter_full_address">Enter Full Address</string>
+    <string name="divison">Divison</string>
+    <string name="district">District</string>
+    <string name="all_blood_request">All Blood Request</string>
+    <string name="all_donor_list">All Donor List</string>
+    <string name="search_donor">Search Donor</string>
+    <string name="enter_your_name">Enter Your Name</string>
+
+    <string-array name="blood_group">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string-array name="divison">
+        <item>Madhya Pradesh</item>
+<!--        <item>Jharkhand</item>-->
+    </string-array>
+
+    <string-array name="MadhyaPradeshDistrict">
+        <item>Indore</item>
+        <item>Bhopal</item>
+        <item>Jabalpur</item>
+        <item>Gwalior</item>
+        <item>Ujjain</item>
+        <item>Sagar</item>
+        <item>Ratlam</item>
+        <item>Khandwa</item>
+        <item>Rewa</item>
+        <item>Chhindwara</item>
+        <item>Guna</item>
+        <item>Satna</item>
+        <item>Dewas</item>
+    </string-array>
+
+<!--    <string-array name="JharkhandDistrict">-->
+<!--        <item>Ranchi</item>-->
+<!--        <item>Gumla</item>-->
+<!--        <item>Jamshedpur</item>-->
+<!--        <item>Bokaro</item>-->
+<!--    </string-array>-->
+
+
+</resources>
